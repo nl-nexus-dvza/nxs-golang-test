@@ -4,7 +4,7 @@
 replicaCount: 1
 image:
   repository: ams.ocir.io/nexus/nxs-golang-test
-  tag: 0.0.3
+  tag: 0.0.4
   pullPolicy: IfNotPresent
 
 # optional list of image pull secrets to use to pull images
